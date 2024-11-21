@@ -43,7 +43,6 @@ However, the remaining flip-flops should be made ready to toggle only when all l
 ```
 
 Developed by: VINISHRAJ R
-
 RegisterNumber: 212223230243
 
 ```
