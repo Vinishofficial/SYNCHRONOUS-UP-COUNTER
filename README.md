@@ -42,9 +42,9 @@ However, the remaining flip-flops should be made ready to toggle only when all l
 
 ```
 
-Developed by:Hemakesh G
+Developed by: VINISHRAJ R
 
-RegisterNumber:212223040064
+RegisterNumber: 212223230243
 
 ```
 ```
